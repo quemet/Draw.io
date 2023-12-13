@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T16:00:26.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZIawqhsnlQu__xHExDDD" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T16:01:00.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eemkTi21MoHLO4YeWbWd" version="22.1.8" type="github">
   <diagram name="Page-1" id="r9_dcZiVTWIHIj-0cioe">
-    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vwyu7rgs5bZc1OZMxp64-18" value="Est-ce que le &lt;br&gt;client accepte &lt;br&gt;le résultat fourni par mail" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
+        <mxCell id="Vwyu7rgs5bZc1OZMxp64-18" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
           <mxGeometry x="380" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vwyu7rgs5bZc1OZMxp64-20" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
@@ -51,7 +51,7 @@
         <mxCell id="Vwyu7rgs5bZc1OZMxp64-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D1IDOb-8UlhYUGt4Y6p8-3" source="Vwyu7rgs5bZc1OZMxp64-21" target="Vwyu7rgs5bZc1OZMxp64-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vwyu7rgs5bZc1OZMxp64-21" value="Est-ce que le client refuse &lt;br&gt;de coopérer avec nous ?" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
+        <mxCell id="Vwyu7rgs5bZc1OZMxp64-21" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
           <mxGeometry x="380" y="160" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vwyu7rgs5bZc1OZMxp64-22" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
@@ -165,6 +165,12 @@
         </mxCell>
         <mxCell id="Vwyu7rgs5bZc1OZMxp64-65" value="Est-ce que le client accepte le fichier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
           <mxGeometry x="800" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwyu7rgs5bZc1OZMxp64-69" value="Est-ce que le&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;client accepte&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;le résultat fourni par mail&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
+          <mxGeometry x="410" y="110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwyu7rgs5bZc1OZMxp64-70" value="Est-ce que le client refuse&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;de coopérer avec nous ?&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D1IDOb-8UlhYUGt4Y6p8-3">
+          <mxGeometry x="290" y="210" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
