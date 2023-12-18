@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:02:34.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ku_49oHwAx_3_B72Ebks" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T13:07:41.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lTzPLAu0nH_fKKFAZL9d" version="22.1.11" type="github">
   <diagram id="FU7NUu3CbukTYbxRIidO" name="Page-1">
-    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="380" y="95" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="L5Kj5VrWHoerJ_uzMM_--12" value="Inventaire réel" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="L5Kj5VrWHoerJ_uzMM_--2">
-          <mxGeometry x="220" y="19" width="90" height="41" as="geometry" />
+          <mxGeometry x="220" y="41" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="L5Kj5VrWHoerJ_uzMM_--13" value="Inventaire sur Odoo" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="L5Kj5VrWHoerJ_uzMM_--2">
           <mxGeometry x="220" y="180" width="90" height="41" as="geometry" />
