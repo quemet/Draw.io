@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:07:18.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.4.127.2 Safari/537.36" etag="huNucWZrfrC7He_ZYDE2" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:08:46.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.4.127.2 Safari/537.36" etag="GxE6RTh6w2vLhDCpjtTw" version="22.1.16" type="github">
   <diagram id="FU7NUu3CbukTYbxRIidO" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,8 +122,14 @@
             <mxPoint x="790" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l1KjIiPGkhvFsE5loPM-1" value="" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="L5Kj5VrWHoerJ_uzMM_--2">
-          <mxGeometry x="245" y="270" width="40" height="60" as="geometry" />
+        <mxCell id="8l1KjIiPGkhvFsE5loPM-1" value="Fichier excel" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="L5Kj5VrWHoerJ_uzMM_--2">
+          <mxGeometry x="252" y="270" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8l1KjIiPGkhvFsE5loPM-2" value="Export en fichier Excel" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=12.5;entryDy=0;entryPerimeter=0;" edge="1" parent="L5Kj5VrWHoerJ_uzMM_--2" source="L5Kj5VrWHoerJ_uzMM_--13" target="8l1KjIiPGkhvFsE5loPM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="250" as="sourcePoint" />
+            <mxPoint x="200" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
