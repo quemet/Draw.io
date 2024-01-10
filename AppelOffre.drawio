@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T12:49:12.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dNyFkLCk73zXB2uXxOf3" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T12:49:59.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tynLkxpeJxNvx1ds07v2" version="22.1.17" type="github">
   <diagram name="Page-1" id="GaLzv1HOwFtsZdGbMVZW">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,15 @@
         </mxCell>
         <mxCell id="9dSxk1FIh0uDA3eXWPNg-32" value="On choisi le fournisseur&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="9dSxk1FIh0uDA3eXWPNg-8">
           <mxGeometry x="901" y="90" width="99" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="9dSxk1FIh0uDA3eXWPNg-33" value="On envoie un mail à &lt;br&gt;notre nouveau fournisseur" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=message;" vertex="1" parent="9dSxk1FIh0uDA3eXWPNg-8">
+          <mxGeometry x="1100" y="95" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9dSxk1FIh0uDA3eXWPNg-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9dSxk1FIh0uDA3eXWPNg-8" source="9dSxk1FIh0uDA3eXWPNg-32" target="9dSxk1FIh0uDA3eXWPNg-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="120" as="sourcePoint" />
+            <mxPoint x="1080" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
